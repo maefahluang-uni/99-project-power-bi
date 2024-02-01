@@ -1,0 +1,23 @@
+{
+  "name": "99-project-power-bi",
+  "version": "1.0.0",
+  "description": "กลุ่มหนูใช้โปรเจคใหม่ที่ไม่ใช่ซีเนียร์โปรเจค เนื่องจากซีเนียร์โปรเจคที่กลุ่มหนูทำไม่มีโค้ดเพื่อมาลงgit hub จึงได้ทำโปรเจคใหม่สำหรับใช้ในวิชานี้ ซึ่งได้รับการแนะนำจากอาจารย์ให้ทำโปรเจคใหม่แล้วค่ะ\r \"Khong Krai Hai\" is the application that you can search for the lost item and posting the lost item that you've found.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maefahluang-uni/99-project-power-bi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maefahluang-uni/99-project-power-bi/issues"
+  },
+  "homepage": "https://github.com/maefahluang-uni/99-project-power-bi#readme"
+}
