@@ -8,6 +8,6 @@
 6431503046 Phumarin Poopong
 
 ## Login / Sign up Page
-**Login ** On login Sign up page user can login to the application via email and password
-**Register ** User can register their account using their email
+**Login** On login Sign up page user can login to the application via email and password
+**Register** User can register their account using their email
 **Forgot password** User can send the password reset link to their email to reset their password
