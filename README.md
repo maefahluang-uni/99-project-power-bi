@@ -6,6 +6,7 @@
 - 6431503014 Sofiya Kamaneewong
 - 6431503023 Duriyapong Chimawong
 - 6431503046 Phumarin Poopong
+- 6331503001 Metas Upathumpa
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
