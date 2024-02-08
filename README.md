@@ -14,6 +14,6 @@ You need to create skeleton of your project's development. It does not necessary
 - Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
 - Create Docker file for your deployment of your application 
 
-## Profile Page
+## Profile Screen
 - Can show the same information as when applying.
 - The profile picture that can be changed and viewed.
